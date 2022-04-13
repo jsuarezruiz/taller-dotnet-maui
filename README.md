@@ -6,7 +6,7 @@ Este taller es una adaptación de [.NET MAUI - Workshop](https://github.com/dotn
 
 ## ¿Qué vamos a ver?
 
-* Bienvenid@ al taller
+* [Bienvenid@ al taller](https://www.youtube.com/watch?v=uWQt95m6Zic)
 * ¿Qué es .NET MAUI?
 * ¿Por qué .NET MAUI?
 * Anatomía de una App .NET MAUI
