@@ -9,10 +9,10 @@ Este taller es una adaptación de [.NET MAUI - Workshop](https://github.com/dotn
 * [Bienvenid@ al taller](https://www.youtube.com/watch?v=uWQt95m6Zic)
 * [¿Qué es .NET MAUI?](https://www.youtube.com/watch?v=Ghfk4gJq7DU)
 * [¿Por qué .NET MAUI?](https://www.youtube.com/watch?v=-_BxfyTHpck)
-* Anatomía de una App .NET MAUI
-* Prerequisitos
-* Instalación en Windows
-* Resolución de problemas
+* [Anatomía de una App .NET MAUI](https://www.youtube.com/watch?v=B99XclsEsOM)
+* [Prerequisitos](https://www.youtube.com/watch?v=u5q6hucueC8)
+* [Instalación en Windows](https://www.youtube.com/watch?v=6b8bCvEHdXs)
+* [Resolución de problemas](https://www.youtube.com/watch?v=caUl384xGnE)
 * El entorno de desarrollo en macOS
 * Lanzar Apps a depuración
 * Creando una App desde cero
