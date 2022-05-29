@@ -13,9 +13,9 @@ Este taller es una adaptación de [.NET MAUI - Workshop](https://github.com/dotn
 * [Prerequisitos](https://www.youtube.com/watch?v=u5q6hucueC8)
 * [Instalación en Windows](https://www.youtube.com/watch?v=6b8bCvEHdXs)
 * [Resolución de problemas](https://www.youtube.com/watch?v=caUl384xGnE)
-* El entorno de desarrollo en macOS
-* Lanzar Apps a depuración
-* Creando una App desde cero
+* [El entorno de desarrollo en macOS](https://www.youtube.com/watch?v=rxSfcFz5tGQ)
+*[ Creando una App desde cero](https://www.youtube.com/watch?v=djvfpe77jJo)
+* [Lanzar Apps a depuración](https://www.youtube.com/watch?v=SXpKGMIuBiI)
 * Proyecto único
 * Hot Reload
 * Gestión de Assets
